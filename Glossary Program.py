@@ -85,6 +85,7 @@ def taketest():
     print(name,"Your Final Score is ",score)
     return(score)
 
+
 def showmenu():#shows the menu on the screen
     print("""
 
@@ -153,14 +154,18 @@ while Finish==False:#MAIN PROCEDURE
             score=taketest()
             time.sleep(1)
             savedetails(name,score)
+        input("\n\n Press any key to continue...")
     elif answer==3:
         readfile()
+        input("\n\n Press any key to continue...")
     elif answer==4:
         searchfile()
+        input("\n\n Press any key to continue...")
     elif answer==5:
         showWords()
     elif answer==6:
         analyse()
+        input("\n\n Press any key to continue...")
     else:
         Finish=True
 
