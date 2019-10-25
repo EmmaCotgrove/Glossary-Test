@@ -1,0 +1,10 @@
+record	a collection of data about one person or thing
+protocol	a set of rules used to determine how computers communicate	
+binary	base 2 system computers use to store data
+biometrics	the technology used to detect and recognise human features
+encryption	the coding of information which then needs to be decoded to be understood
+packet	a small amount of data sent over the network
+hardware	describes the physical parts of a computer
+variable	used to store data within a computer program
+cookie	a file stored on the computer by a website that has been visited
+spam	emails sent out in bulk which tend to advertise products
